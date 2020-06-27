@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="109" started-at="2020-04-22T10:56:45Z" finished-at="2020-04-22T10:56:45Z">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="47" started-at="2020-04-22T10:56:45Z" finished-at="2020-04-22T10:56:45Z">
+      <class name="annotations.firstFile">
+        <test-method status="PASS" signature="bTest1()[pri:0, instance:annotations.firstFile@4f933fd1]" name="bTest1" is-config="true" duration-ms="15" started-at="2020-04-22T10:56:45Z" finished-at="2020-04-22T10:56:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bTest1 -->
+        <test-method status="PASS" signature="bClass1()[pri:0, instance:annotations.firstFile@4f933fd1]" name="bClass1" is-config="true" duration-ms="0" started-at="2020-04-22T10:56:45Z" finished-at="2020-04-22T10:56:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bClass1 -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:annotations.firstFile@4f933fd1]" name="test1" duration-ms="16" started-at="2020-04-22T10:56:45Z" finished-at="2020-04-22T10:56:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="aTest()[pri:0, instance:annotations.firstFile@4f933fd1]" name="aTest" is-config="true" duration-ms="0" started-at="2020-04-22T10:56:45Z" finished-at="2020-04-22T10:56:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aTest -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:annotations.firstFile@4f933fd1]" name="test2" duration-ms="0" started-at="2020-04-22T10:56:45Z" finished-at="2020-04-22T10:56:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="aClass1()[pri:0, instance:annotations.firstFile@4f933fd1]" name="aClass1" is-config="true" duration-ms="0" started-at="2020-04-22T10:56:45Z" finished-at="2020-04-22T10:56:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aClass1 -->
+      </class> <!-- annotations.firstFile -->
+    </test> <!-- Test1 -->
+    <test name="Test2" duration-ms="16" started-at="2020-04-22T10:56:45Z" finished-at="2020-04-22T10:56:45Z">
+      <class name="annotations.secondFile">
+        <test-method status="PASS" signature="bTest()[pri:0, instance:annotations.secondFile@61832929]" name="bTest" is-config="true" duration-ms="0" started-at="2020-04-22T10:56:45Z" finished-at="2020-04-22T10:56:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bTest -->
+        <test-method status="PASS" signature="bClass1()[pri:0, instance:annotations.secondFile@61832929]" name="bClass1" is-config="true" duration-ms="0" started-at="2020-04-22T10:56:45Z" finished-at="2020-04-22T10:56:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bClass1 -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:annotations.secondFile@61832929]" name="test1" duration-ms="0" started-at="2020-04-22T10:56:45Z" finished-at="2020-04-22T10:56:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="aClass1()[pri:0, instance:annotations.secondFile@61832929]" name="aClass1" is-config="true" duration-ms="0" started-at="2020-04-22T10:56:45Z" finished-at="2020-04-22T10:56:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aClass1 -->
+        <test-method status="PASS" signature="aTest()[pri:0, instance:annotations.secondFile@61832929]" name="aTest" is-config="true" duration-ms="0" started-at="2020-04-22T10:56:45Z" finished-at="2020-04-22T10:56:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aTest -->
+      </class> <!-- annotations.secondFile -->
+      <class name="annotations.thirdFile">
+        <test-method status="PASS" signature="bClass()[pri:0, instance:annotations.thirdFile@29774679]" name="bClass" is-config="true" duration-ms="0" started-at="2020-04-22T10:56:45Z" finished-at="2020-04-22T10:56:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bClass -->
+        <test-method status="PASS" signature="aClass()[pri:0, instance:annotations.thirdFile@29774679]" name="aClass" is-config="true" duration-ms="0" started-at="2020-04-22T10:56:45Z" finished-at="2020-04-22T10:56:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aClass -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:annotations.thirdFile@29774679]" name="test1" duration-ms="0" started-at="2020-04-22T10:56:45Z" finished-at="2020-04-22T10:56:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- annotations.thirdFile -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite -->
+</testng-results>
