@@ -7,22 +7,22 @@ public class arthamaticTest {
 	static int Num2 = 0;
 	int Val = 0;
 	void addition() {
-		System.out.println("Numbwe " + Num1 + " + Number " + Num2 + " =" + (Num1 + Num2));
+		System.out.println("Number " + Num1 + " + Number " + Num2 + " =" + (Num1 + Num2));
 	}
 	void multiplication() {
-		System.out.println("Numbwe " + Num1 + " * Number " + Num2 + " =" + (Num1 * Num2));
+		System.out.println("Number " + Num1 + " * Number " + Num2 + " =" + (Num1 * Num2));
 	}
 	
 	void subtract() {
-		System.out.println("Numbwe " + Num1 + " - Number " + Num2 + " =" + (Num1 - Num2));
+		System.out.println("Number " + Num1 + " - Number " + Num2 + " =" + (Num1 - Num2));
 	}
 	
 	void divide() {
-		System.out.println("Numbwe " + Num1 + " / Number " + Num2 + " =" + (Num1 / Num2));
+		System.out.println("Number " + Num1 + " / Number " + Num2 + " =" + (Num1 / Num2));
 	}
 	
 	static void percentage() {
-		System.out.println("Numbwe " + Num1 + " % Number " + Num2 + " =" + (Num1 % Num2));
+		System.out.println("Number " + Num1 + " % Number " + Num2 + " =" + (Num1 % Num2));
 	}
 	
 	@SuppressWarnings("resource")
